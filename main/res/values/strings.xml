@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PmkHW9</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="ebay">eBay Search</string>
+    <string name="keyword">Keyword</string>
+    <string name="min">Price From</string>
+    <string name="max">Price To</string>
+    <string name="sort">Sort By</string>
+    <string name="clear">Clear</string>
+    <string name="search">Search</string>
+    <string name="blank"></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="facebook_app_id">hw9</string>
+
+</resources>
